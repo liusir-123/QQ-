@@ -1,0 +1,23 @@
+{
+  "id": "1440524",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7021643",
+      "name": "右箭头",
+      "font_class": "arrfill_u-copy",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7563980",
+      "name": "右",
+      "font_class": "you",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    }
+  ]
+}
